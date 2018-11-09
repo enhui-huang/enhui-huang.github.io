@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: 
 ---
 
 My name is Enhui Huang. I have the following qualities:
