@@ -204,6 +204,7 @@ prose:
     - /css
     - /img
     - /js
+    - /posters_slides
   metadata:
     _posts:
       - name: "layout"
