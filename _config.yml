@@ -29,8 +29,8 @@ navbar-links:
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
   About Me: "aboutme"
-    - CV: 
-    - Contact: 
+    - CV: ""
+    - Contact: ""
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -81,7 +81,7 @@ footer-links-active:
   email: true
   github: true
   linkedin: true
-  rss: false
+  #rss: false
   #facebook: 
   
 
@@ -110,11 +110,11 @@ footer-links-active:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: true
+# share-links-active:
+#   twitter: false
+#   facebook: false
+#   google: false
+#   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
