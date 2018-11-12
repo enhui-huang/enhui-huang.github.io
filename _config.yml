@@ -29,8 +29,8 @@ navbar-links:
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
   About Me: "aboutme"
-    - CV: "aboutme"
-    - Contact: "aboutme"
+    - CV: 
+    - Contact: 
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -80,9 +80,9 @@ author:
 social-network-links:
   rss: false
   email: "enhui.huang@polytechnique.edu"
-  linkedin: "www.linkedin.com/in/enhui-huang"
+  linkedin: enhui-huang
   #facebook: 
-  github: "https://github.com/enhui-huang"
+  github: enhui-huang
   #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
