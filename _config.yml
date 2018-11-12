@@ -38,6 +38,7 @@ navbar-links:
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/enhui_1.jpg"
+{% avatar hubot size=100 %}
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -77,10 +78,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
+  email: "enhui.huang@polytechnique.edu"
+  #facebook: 
   github: https://github.com/enhui-huang
-  twitter: daattali
+  #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -97,8 +98,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
@@ -245,6 +246,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-avatar
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
