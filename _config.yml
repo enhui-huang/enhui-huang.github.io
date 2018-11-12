@@ -29,6 +29,8 @@ navbar-links:
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
   About Me: "aboutme"
+    - CV: "aboutme"
+    - Contact: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -76,14 +78,14 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "enhui.huang@polytechnique.edu"
+  linkedin: "www.linkedin.com/in/enhui-huang"
   #facebook: 
-  github: https://github.com/enhui-huang
+  github: "https://github.com/enhui-huang"
   #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: www.linkedin.com/in/enhui-huang
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
