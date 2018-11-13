@@ -8,10 +8,17 @@ Enhui Huang is a third-year Ph.D. student at [LIX](https://www.lix.polytechnique
 More details can be found in the [resume](resume/CV-Enhui_HUANG-en.pdf).
 
 ## Contact  
- :email: enhui.huang@polytechnique.edu  
- :telephone: +33 7 82 99 21 93  
- :office: office 1020, LIX, 1 Rue Honoré d’Estienne d’Orves, 91120 Palaiseau, France
+ <i class="fas fa-envelope"></i> enhui.huang@polytechnique.edu  
+ <i class="fas fa-phone"></i> +33 7 82 99 21 93  
+ <i class="fas fa-map-marked-alt"></i> office 1020, LIX, 1 Rue Honoré d’Estienne d’Orves, 91120 Palaiseau, France
 
  <figure>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.530652398582!2d2.2033549153353897!3d48.71445121878533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6789394d82f59%3A0xcf94d20780385684!2sLaboratoire+d&#39;informatique+de+l&#39;%C3%89cole+Polytechnique+(LIX)!5e0!3m2!1sen!2sfr!4v1542062033641" width="700" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
  </figure>
+
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
