@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Enhui Huang is a third-year Ph.D. student at [LIX](https://www.lix.polytechnique.fr/), [École polytechnique](https://www.polytechnique.edu/en) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), under the supervision of Prof. [Yanlei Diao](http://www.lix.polytechnique.fr/~yanlei.diao/) and Prof. [Anna Liu](http://people.math.umass.edu/~anna/). She is also a member of [CEDAR team](https://team.inria.fr/cedar/). She received her B.S.c degree in [Hongyi Mathematics Base Class](http://202.114.70.140/Englishversion/) from [Wuhan University](http://en.whu.edu.cn/), China in 2015 and her M.Sc. degree in Data Science from [École polytechnique](https://www.polytechnique.edu/en) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France in 2016.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+More details can be found in the [resume](resume/CV-Enhui_HUANG-en.pdf).
 
-What else do you need?
+## Contact  
+ :email: enhui.huang@polytechnique.edu  
+ :telephone: +33 7 82 99 21 93  
+ :office: office 1020, LIX, 1 Rue Honoré d’Estienne d’Orves, 91120 Palaiseau, France
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ <figure>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.530652398582!2d2.2033549153353897!3d48.71445121878533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6789394d82f59%3A0xcf94d20780385684!2sLaboratoire+d&#39;informatique+de+l&#39;%C3%89cole+Polytechnique+(LIX)!5e0!3m2!1sen!2sfr!4v1542062033641" width="700" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+ </figure>
