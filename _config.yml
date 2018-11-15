@@ -29,8 +29,8 @@ navbar-links:
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
   About Me: "aboutme"
-#     - CV: "aboutme/resume"
-    - Contact: "aboutme.md/##Contact"
+    # - CV: "aboutme/resume"
+    # - Contact: "aboutme.md/##Contact"
   
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
