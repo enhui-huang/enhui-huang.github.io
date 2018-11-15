@@ -28,7 +28,7 @@ navbar-links:
   Publications: 
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
-  About Me: "aboutme"
+#   About Me: "aboutme"
     # - CV: "aboutme/resume"
     # - Contact: "aboutme.md/##Contact"
   
