@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Papers
+font-family: Times New Roman
 ---
 
 ### Conferences:  

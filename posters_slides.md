@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posters & Slides
+font-family: Times New Roman
 ---
 
 ### Posters:  
