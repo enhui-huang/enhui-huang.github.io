@@ -7,7 +7,7 @@ Enhui Huang is a third-year Ph.D. student at [LIX](https://www.lix.polytechnique
 
 
 ## Curriculum vitae:
-More details can be found in the [resume](resume/CV-Enhui_HUANG-en.pdf).
+More details can be found in the [CV](resume/CV-Enhui_HUANG-en.pdf).
 
 ## Research Interests
 
