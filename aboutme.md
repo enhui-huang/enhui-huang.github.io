@@ -12,7 +12,7 @@ More details can be found in the [CV](resume/CV-Enhui_HUANG-en.pdf).
 ## Research Interests  
  - Machine Learning  
  - Interactive Data Exploration  
- - Data Mining</li> 
+ - Data Mining
 
 ## Education  
  - <i class="fas fa-graduation-cap"></i>M.Sc. Data Science, 2016
