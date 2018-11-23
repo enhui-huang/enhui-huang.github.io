@@ -29,10 +29,10 @@ navbar-links:
     - Papers: "papers"
     - Posters & Slides: "posters_slides"
   About Me: "aboutme"
-    - CV: "aboutme#curriculum-vitae"
-    - Research Interests: "aboutme.md/#research-interests"
-    - Education: "aboutme.md/#education"
-    - Contact: "aboutme.md/#contact"
+    - CV: "aboutme.md#curriculum-vitae"
+    - Research Interests: "aboutme.md#research-interests"
+    - Education: "aboutme.md#education"
+    - Contact: "aboutme.md#contact"
   
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
