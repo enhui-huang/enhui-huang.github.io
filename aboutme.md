@@ -9,7 +9,14 @@ Enhui Huang is a third-year Ph.D. student at [LIX](https://www.lix.polytechnique
 ## Curriculum vitae:
 More details can be found in the [CV](resume/CV-Enhui_HUANG-en.pdf).
 
-## Research Interests
+## Research Interests  
+ - Machine Learning  
+ - Interactive Data Exploration  
+ - Data Mining</li> 
+
+## Education  
+ - <i class="fas fa-graduation-cap"></i>M.Sc. Data Science, 2016
+ - <i class="fas fa-graduation-cap"></i>B.S. Mathematics Base Class，2015
 
 ## Contact  
  <i class="fas fa-envelope fa-2x"></i> &nbsp; enhui.huang@polytechnique.edu  
