@@ -13,8 +13,8 @@ More details can be found in the [CV](resume/CV-Enhui_HUANG-en.pdf).
 
 <a name="research-interests"></a>
 ## Research Interests  
+ - Interactive Data Exploration 
  - Machine Learning  
- - Interactive Data Exploration  
  - Data Mining
 
 <a name="education"></a>
