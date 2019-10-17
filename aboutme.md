@@ -24,7 +24,7 @@ More details can be found in the [CV](resume/CV-Enhui_HUANG-en.pdf).
 
 <a name="contact"></a>
 ## Contact  
- <i class="fas fa-envelope fa-2x"></i> &nbsp; enhui.huang@polytechnique.edu  
+ <i class="fas fa-envelope fa-2x"></i> &nbsp; enhui [dot] huang [at] polytechnique [dot] edu  
  <i class="fas fa-phone fa-2x"></i> &nbsp; +33 7 82 99 21 93  
  <i class="fas fa-map-marked-alt fa-2x"></i> &nbsp; office 1020, LIX, 1 Rue Honoré d’Estienne d’Orves, 91120 Palaiseau, France 
 
